@@ -2,7 +2,7 @@
 import json
 from typing import List, Union
 
-from duckduckgo_search import ddg
+from Company_Website import ddg
 
 from autogpt.config import Config
 
